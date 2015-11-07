@@ -1,5 +1,6 @@
 # NotesOrganizer
-Test for LightIT company
+
+PHP, MVC, no Framework
 
 Hosting: http://notes.16mb.com/
 
