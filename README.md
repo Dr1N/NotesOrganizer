@@ -1,6 +1,6 @@
 # NotesOrganizer
 
-PHP, MVC, no Framework
+PHP + MySQL, MVC, no Framework
 
 Hosting: http://notes.16mb.com/
 
