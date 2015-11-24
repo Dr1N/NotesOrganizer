@@ -1,7 +1,7 @@
 <h3>ЗАДАНИЕ <span class="bg-danger">(мои комментарии)</span></h3>
 
 <div class="row">
-	<img src="<?= CONTENT_PATH ?>logo.png" class="img-responsive col-sm-offset-2" alt="Responsive image">
+	<h1>Техническое задание</h1>
 </div>
 <div class="row">
 	<h3><b>Задание на практику</b></h3>
